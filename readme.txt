@@ -8,5 +8,6 @@ For smooth scrolling:-
 
 Gsap:-
 
+Gsap is used for transitions 
+
 1. Attach gsap from cdn
-2.
